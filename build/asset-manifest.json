@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7477074.chunk.css",
+    "main.js": "/static/js/main.2effe486.chunk.js",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "static/js/2.5598b70a.chunk.js": "/static/js/2.5598b70a.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.a5e180d5c1359a79176c221ab16807c0.js": "/precache-manifest.a5e180d5c1359a79176c221ab16807c0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/spotify.png": "/static/media/spotify.5044823b.png"
+  }
+}
